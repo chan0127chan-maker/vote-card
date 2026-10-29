@@ -1,0 +1,726 @@
+{
+  "version": "vote-card-1",
+  "sources": {},
+  "words": [
+    {
+      "id": "vote-moment-1",
+      "text": "那個早晨",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-moment-2",
+      "text": "這個週末",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-moment-3",
+      "text": "天亮以後",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-moment-4",
+      "text": "約好的日子",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-moment-5",
+      "text": "回程之前",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-moment-6",
+      "text": "下班以後",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-moment-7",
+      "text": "出門的時候",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-moment-8",
+      "text": "等你放假",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-moment-9",
+      "text": "十一月的風",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-moment-10",
+      "text": "有空的話",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-moment-11",
+      "text": "這一次",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-moment-12",
+      "text": "好久不見",
+      "kind": "moment",
+      "tags": [
+        "回家",
+        "moment"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-1",
+      "text": "家門口",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-2",
+      "text": "老地方",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-3",
+      "text": "一張車票",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-4",
+      "text": "口袋裡",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-5",
+      "text": "巷口早餐",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-6",
+      "text": "回家的路",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-7",
+      "text": "那盞燈",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-8",
+      "text": "飯桌旁",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-9",
+      "text": "你的位子",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-10",
+      "text": "熟悉的街",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-11",
+      "text": "一封信",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-image-12",
+      "text": "一碗熱湯",
+      "kind": "image",
+      "tags": [
+        "回家",
+        "image"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-1",
+      "text": "我會去投票",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-2",
+      "text": "我等你",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-3",
+      "text": "一起走吧",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-4",
+      "text": "帶上自己",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-5",
+      "text": "想和你",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-6",
+      "text": "記得回來",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-7",
+      "text": "約你一起",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-8",
+      "text": "好好說話",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-9",
+      "text": "想起了你",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-10",
+      "text": "我們的日常",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-11",
+      "text": "我想回家",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-voice-12",
+      "text": "你也來嗎",
+      "kind": "voice",
+      "tags": [
+        "回家",
+        "voice"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-1",
+      "text": "就算很遠",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-2",
+      "text": "不用多說",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-3",
+      "text": "如果可以",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-4",
+      "text": "趁天還亮",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-5",
+      "text": "不如一起",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-6",
+      "text": "順路的話",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-7",
+      "text": "慢一點也好",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-8",
+      "text": "這一次換我",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-9",
+      "text": "也許就在",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-10",
+      "text": "突然想起",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-11",
+      "text": "再靠近一點",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-turn-12",
+      "text": "把明天留給",
+      "kind": "turn",
+      "tags": [
+        "回家",
+        "turn"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-1",
+      "text": "走過轉角",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-2",
+      "text": "留一張椅子",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-3",
+      "text": "回家吃飯",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-4",
+      "text": "握在手裡",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-5",
+      "text": "投下一票",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-6",
+      "text": "帶著期待",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-7",
+      "text": "一起出發",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-8",
+      "text": "把信寄出",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-9",
+      "text": "抬頭看看",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-10",
+      "text": "搭上早班車",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-11",
+      "text": "走在平路上",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "vote-action-12",
+      "text": "約在家門口",
+      "kind": "action",
+      "tags": [
+        "回家",
+        "action"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    }
+  ]
+}

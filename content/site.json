@@ -1,0 +1,1842 @@
+{
+  "asOf": "2026-10-18",
+  "sourceUrl": "https://blindvote.app/sources/miaoli",
+  "candidates": [
+    {
+      "id": "chen",
+      "name": "陳品安"
+    },
+    {
+      "id": "chung",
+      "name": "鍾東錦"
+    }
+  ],
+  "words": [
+    {
+      "id": "eat",
+      "text": "好好吃飯",
+      "role": "wish",
+      "codes": [
+        "need:eating"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "walk",
+      "text": "慢慢走",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:walking"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "home",
+      "text": "有個落腳處",
+      "role": "wish",
+      "codes": [
+        "need:housing"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "play",
+      "text": "出去玩吧",
+      "role": "wish",
+      "codes": [
+        "need:play"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "care",
+      "text": "有人接住你",
+      "role": "wish",
+      "codes": [
+        "need:care"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "elders",
+      "text": "長輩",
+      "role": "audience",
+      "codes": [
+        "age:senior"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "children",
+      "text": "孩子",
+      "role": "audience",
+      "codes": [
+        "age:child"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "you",
+      "text": "遠方的你",
+      "role": "audience",
+      "codes": [
+        "identity:friend"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "us",
+      "text": "我們",
+      "role": "audience",
+      "codes": [
+        "identity:community"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "together",
+      "text": "一起",
+      "role": "feeling",
+      "codes": [
+        "emotion:together"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "tomorrow",
+      "text": "明天也要",
+      "role": "feeling",
+      "codes": [
+        "context:future"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "remember",
+      "text": "放在心上",
+      "role": "feeling",
+      "codes": [
+        "emotion:care"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "eat-variation-0",
+      "text": "再添一碗",
+      "role": "wish",
+      "codes": [
+        "need:eating"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "eat-variation-1",
+      "text": "嚐得到家常味",
+      "role": "wish",
+      "codes": [
+        "need:eating"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "eat-variation-2",
+      "text": "熱熱的飯菜",
+      "role": "wish",
+      "codes": [
+        "need:eating"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "eat-variation-3",
+      "text": "吃得下，也笑得開",
+      "role": "wish",
+      "codes": [
+        "need:eating"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "eat-variation-4",
+      "text": "一口一口地",
+      "role": "wish",
+      "codes": [
+        "need:eating"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "eat-variation-5",
+      "text": "好好嚼著日子",
+      "role": "wish",
+      "codes": [
+        "need:eating"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "care-variation-0",
+      "text": "有人接手",
+      "role": "wish",
+      "codes": [
+        "need:care"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "care-variation-1",
+      "text": "歇一會兒",
+      "role": "wish",
+      "codes": [
+        "need:care"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "care-variation-2",
+      "text": "有人陪著慢慢老",
+      "role": "wish",
+      "codes": [
+        "need:care"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "care-variation-3",
+      "text": "把辛苦放下",
+      "role": "wish",
+      "codes": [
+        "need:care"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "care-variation-4",
+      "text": "留點力氣給自己",
+      "role": "wish",
+      "codes": [
+        "need:care"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "care-variation-5",
+      "text": "不必一個人撐著",
+      "role": "wish",
+      "codes": [
+        "need:care"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "walk-variation-0",
+      "text": "平安到家",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:walking"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "walk-variation-1",
+      "text": "走到巷口",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:walking"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "walk-variation-2",
+      "text": "過馬路不用趕",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:walking"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "walk-variation-3",
+      "text": "再走一小段",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:walking"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "walk-variation-4",
+      "text": "讓腳步安心",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:walking"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "walk-variation-5",
+      "text": "回家不必冒險",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:walking"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "home-variation-0",
+      "text": "有處可歸",
+      "role": "wish",
+      "codes": [
+        "need:housing"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "home-variation-1",
+      "text": "燈為你留著",
+      "role": "wish",
+      "codes": [
+        "need:housing"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "home-variation-2",
+      "text": "把日子安放",
+      "role": "wish",
+      "codes": [
+        "need:housing"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "home-variation-3",
+      "text": "住得安心",
+      "role": "wish",
+      "codes": [
+        "need:housing"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "home-variation-4",
+      "text": "一扇自己的窗",
+      "role": "wish",
+      "codes": [
+        "need:housing"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "home-variation-5",
+      "text": "回去就能睡好",
+      "role": "wish",
+      "codes": [
+        "need:housing"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "play-variation-0",
+      "text": "曬一點太陽",
+      "role": "wish",
+      "codes": [
+        "need:play"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "play-variation-1",
+      "text": "在樹下歇一歇",
+      "role": "wish",
+      "codes": [
+        "need:play"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "play-variation-2",
+      "text": "跑一跑，再笑一笑",
+      "role": "wish",
+      "codes": [
+        "need:play"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "play-variation-3",
+      "text": "把午後留白",
+      "role": "wish",
+      "codes": [
+        "need:play"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "play-variation-4",
+      "text": "找一處撒野",
+      "role": "wish",
+      "codes": [
+        "need:play"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "play-variation-5",
+      "text": "一起出去透透氣",
+      "role": "wish",
+      "codes": [
+        "need:play"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "grandparents",
+      "text": "阿公阿婆",
+      "role": "audience",
+      "codes": [
+        "age:senior"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "older-you",
+      "text": "慢慢變老的你",
+      "role": "audience",
+      "codes": [
+        "age:senior"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "little-you",
+      "text": "還小的你",
+      "role": "audience",
+      "codes": [
+        "age:child"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "school-you",
+      "text": "放學的你",
+      "role": "audience",
+      "codes": [
+        "age:child",
+        "context:school"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "energetic-you",
+      "text": "活力的你",
+      "role": "audience",
+      "codes": [
+        "identity:worker"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "after-work-you",
+      "text": "下班的你",
+      "role": "audience",
+      "codes": [
+        "identity:worker"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "away-you",
+      "text": "在外打拚的你",
+      "role": "audience",
+      "codes": [
+        "identity:worker"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "caregiver",
+      "text": "照顧家人的你",
+      "role": "audience",
+      "codes": [
+        "identity:caregiver",
+        "need:care"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "parent",
+      "text": "牽著小手的你",
+      "role": "audience",
+      "codes": [
+        "identity:parent",
+        "age:child"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "neighbors",
+      "text": "隔壁的你",
+      "role": "audience",
+      "codes": [
+        "identity:neighbor"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "family",
+      "text": "家裡的人",
+      "role": "audience",
+      "codes": [
+        "identity:family"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "friend",
+      "text": "好久不見的你",
+      "role": "audience",
+      "codes": [
+        "identity:friend"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "dinner",
+      "text": "晚餐以前",
+      "role": "feeling",
+      "codes": [
+        "context:dining"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "morning",
+      "text": "天亮的時候",
+      "role": "feeling",
+      "codes": [
+        "context:morning"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "on-road",
+      "text": "在路上",
+      "role": "feeling",
+      "codes": [
+        "context:journey"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "after-school",
+      "text": "放學以後",
+      "role": "feeling",
+      "codes": [
+        "context:school"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "weekend",
+      "text": "週末午後",
+      "role": "feeling",
+      "codes": [
+        "context:weekend"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "in-rain",
+      "text": "下雨也一樣",
+      "role": "feeling",
+      "codes": [
+        "context:rain"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "still-here",
+      "text": "還在這裡",
+      "role": "feeling",
+      "codes": [
+        "emotion:together"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "a-little",
+      "text": "一點點就好",
+      "role": "feeling",
+      "codes": [
+        "emotion:gentle"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "next-time",
+      "text": "下一次一起",
+      "role": "feeling",
+      "codes": [
+        "emotion:together"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "no-rush",
+      "text": "不急著走",
+      "role": "feeling",
+      "codes": [
+        "emotion:gentle"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "for-you",
+      "text": "這一點心意",
+      "role": "feeling",
+      "codes": [
+        "emotion:care"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "take-time",
+      "text": "把時間留給你",
+      "role": "feeling",
+      "codes": [
+        "emotion:care"
+      ],
+      "kind": "turn",
+      "tags": [
+        "feeling"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "transit-0",
+      "text": "不用趕的回程",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:transit"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "transit-1",
+      "text": "還有下一班",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:transit"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "transit-2",
+      "text": "等得到，也坐得到",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:transit"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "drive-0",
+      "text": "路上順一點",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:driving"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "drive-1",
+      "text": "少一點塞車",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:driving"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "drive-2",
+      "text": "回家的路寬一些",
+      "role": "wish",
+      "codes": [
+        "need:mobility",
+        "context:driving"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "learn-0",
+      "text": "學得安心",
+      "role": "wish",
+      "codes": [
+        "need:learning"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "learn-1",
+      "text": "讓教室亮著",
+      "role": "wish",
+      "codes": [
+        "need:learning"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "learn-2",
+      "text": "陪你慢慢長大",
+      "role": "wish",
+      "codes": [
+        "need:learning"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "animals-0",
+      "text": "牠也有地方去",
+      "role": "wish",
+      "codes": [
+        "need:animalcare"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "animals-1",
+      "text": "每個生命都有家",
+      "role": "wish",
+      "codes": [
+        "need:animalcare"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "animals-2",
+      "text": "讓爪子安心落地",
+      "role": "wish",
+      "codes": [
+        "need:animalcare"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "travel-0",
+      "text": "留一晚再走",
+      "role": "wish",
+      "codes": [
+        "need:leisure",
+        "context:travel"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "travel-1",
+      "text": "看一看家鄉",
+      "role": "wish",
+      "codes": [
+        "need:leisure",
+        "context:travel"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "travel-2",
+      "text": "山裡的風，等你",
+      "role": "wish",
+      "codes": [
+        "need:leisure",
+        "context:travel"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "culture-0",
+      "text": "留住老屋的故事",
+      "role": "wish",
+      "codes": [
+        "need:heritage",
+        "context:culture"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "culture-1",
+      "text": "老地方還在說話",
+      "role": "wish",
+      "codes": [
+        "need:heritage",
+        "context:culture"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "culture-2",
+      "text": "記得我們從哪裡來",
+      "role": "wish",
+      "codes": [
+        "need:heritage",
+        "context:culture"
+      ],
+      "kind": "image",
+      "tags": [
+        "wish"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "teacher",
+      "text": "站在講台的你",
+      "role": "audience",
+      "codes": [
+        "identity:teacher"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "student",
+      "text": "背著書包的你",
+      "role": "audience",
+      "codes": [
+        "age:child",
+        "identity:student"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "pet-parent",
+      "text": "牽著毛孩的你",
+      "role": "audience",
+      "codes": [
+        "identity:pet-parent"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    },
+    {
+      "id": "traveler",
+      "text": "走走停停的你",
+      "role": "audience",
+      "codes": [
+        "identity:traveler"
+      ],
+      "kind": "voice",
+      "tags": [
+        "audience"
+      ],
+      "weight": 1,
+      "provenance": "editorial_association",
+      "sourceLinks": []
+    }
+  ],
+  "sources": {},
+  "topics": [
+    {
+      "id": "dentures",
+      "title": "吃飯與假牙照護",
+      "codes": [
+        "need:eating",
+        "age:senior"
+      ],
+      "wishes": [
+        "eat"
+      ],
+      "audiences": [
+        "elders"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "pledge",
+          "summary": "提出擴大高齡者假牙補助。",
+          "brief": "擴大高齡者假牙補助。",
+          "sourceTitle": "候選人貼文，由留白投票所收錄",
+          "sourceUrl": "https://www.facebook.com/pinanchen064/posts/1607645894697181"
+        },
+        {
+          "candidateId": "chung",
+          "status": "uncollected",
+          "summary": "此來源未收錄假牙補助主張；同頁另列長照家園，屬不同項目。",
+          "brief": "此來源尚未收錄假牙補助項目。",
+          "sourceTitle": "留白投票所苗栗資料頁",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    },
+    {
+      "id": "eldercare",
+      "title": "長照與照顧支持",
+      "codes": [
+        "need:care",
+        "age:senior"
+      ],
+      "wishes": [
+        "care",
+        "eat"
+      ],
+      "audiences": [
+        "elders",
+        "us"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "pledge",
+          "summary": "提出假牙補助與敬老卡使用範圍的調整。",
+          "brief": "調整假牙補助與敬老卡使用範圍。",
+          "sourceTitle": "候選人貼文，由留白投票所收錄",
+          "sourceUrl": "https://www.facebook.com/pinanchen064/posts/1607645894697181"
+        },
+        {
+          "candidateId": "chung",
+          "status": "plan",
+          "summary": "縣府興建長照醫養家園，規劃住宿與日間照顧。",
+          "brief": "興建長照家園，規劃住宿與日照。",
+          "sourceTitle": "苗栗縣政府長照家園動土紀錄",
+          "sourceUrl": "https://www.miaoli.gov.tw/News_Content2.aspx?n=275&s=938896"
+        }
+      ]
+    },
+    {
+      "id": "walking",
+      "title": "行人與通學安全",
+      "codes": [
+        "need:mobility",
+        "context:walking"
+      ],
+      "wishes": [
+        "walk"
+      ],
+      "audiences": [
+        "elders",
+        "children",
+        "us",
+        "you"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "pledge",
+          "summary": "提出人行道與學校周邊安全動線。",
+          "brief": "建置人行道與學校周邊安全動線。",
+          "sourceTitle": "候選人貼文，由留白投票所收錄",
+          "sourceUrl": "https://www.facebook.com/pinanchen064/posts/1683006820494421"
+        },
+        {
+          "candidateId": "chung",
+          "status": "plan",
+          "summary": "縣府規劃頭份行人友善區與通學廊道改善。",
+          "brief": "改善頭份行人友善區及通學廊道。",
+          "sourceTitle": "苗栗縣政府頭份交通說明會",
+          "sourceUrl": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=930660"
+        }
+      ]
+    },
+    {
+      "id": "housing",
+      "title": "居住與留鄉",
+      "codes": [
+        "need:housing"
+      ],
+      "wishes": [
+        "home"
+      ],
+      "audiences": [
+        "us",
+        "you"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "pledge",
+          "summary": "提出租屋支持及閒置老屋活化。",
+          "brief": "推動租屋支持與閒置老屋活化。",
+          "sourceTitle": "候選人貼文，由留白投票所收錄",
+          "sourceUrl": "https://www.facebook.com/pinanchen064/posts/1711256174336152"
+        },
+        {
+          "candidateId": "chung",
+          "status": "uncollected",
+          "summary": "截至本次資料日期，該來源未收錄此議題主張。",
+          "brief": "此來源尚未收錄這個議題。",
+          "sourceTitle": "留白投票所苗栗資料頁",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    },
+    {
+      "id": "parks",
+      "title": "公園與遊戲空間",
+      "codes": [
+        "need:play"
+      ],
+      "wishes": [
+        "play",
+        "walk"
+      ],
+      "audiences": [
+        "children",
+        "us",
+        "you"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "pledge",
+          "summary": "提出鄰近遊戲空間、遊戲場降溫與青少年場域。",
+          "brief": "改善遊戲空間、降溫與青少年場域。",
+          "sourceTitle": "候選人貼文，由留白投票所收錄",
+          "sourceUrl": "https://www.facebook.com/pinanchen064/posts/1717432277051875"
+        },
+        {
+          "candidateId": "chung",
+          "status": "uncollected",
+          "summary": "截至本次資料日期，該來源未收錄此議題主張。",
+          "brief": "此來源尚未收錄這個議題。",
+          "sourceTitle": "留白投票所苗栗資料頁",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    },
+    {
+      "id": "school-meals",
+      "title": "孩子的學校餐食",
+      "codes": [
+        "need:eating",
+        "age:child"
+      ],
+      "wishes": [
+        "eat"
+      ],
+      "audiences": [
+        "children",
+        "little-you",
+        "school-you"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "uncollected",
+          "summary": "目前核對的苗栗來源頁沒有收錄這個具體政策項目，不代表候選人未提出。",
+          "brief": "此來源尚未收錄這個具體項目。",
+          "sourceTitle": "留白投票所苗栗資料頁",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        },
+        {
+          "candidateId": "chung",
+          "status": "uncollected",
+          "summary": "目前核對的苗栗來源頁沒有收錄這個具體政策項目，不代表候選人未提出。",
+          "brief": "此來源尚未收錄這個具體項目。",
+          "sourceTitle": "留白投票所苗栗資料頁",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    },
+    {
+      "id": "livelihood",
+      "title": "吃飯與工作生計",
+      "codes": [
+        "need:eating",
+        "identity:worker"
+      ],
+      "wishes": [
+        "eat"
+      ],
+      "audiences": [
+        "energetic-you",
+        "after-work-you",
+        "away-you"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "uncollected",
+          "summary": "目前核對的苗栗來源頁沒有收錄這個具體政策項目，不代表候選人未提出。",
+          "brief": "此來源尚未收錄這個具體項目。",
+          "sourceTitle": "留白投票所苗栗資料頁",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        },
+        {
+          "candidateId": "chung",
+          "status": "uncollected",
+          "summary": "目前核對的苗栗來源頁沒有收錄這個具體政策項目，不代表候選人未提出。",
+          "brief": "此來源尚未收錄這個具體項目。",
+          "sourceTitle": "留白投票所苗栗資料頁",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    },
+    {
+      "id": "childcare",
+      "title": "托育與家庭支持",
+      "codes": [
+        "need:care",
+        "age:child"
+      ],
+      "wishes": [
+        "care"
+      ],
+      "audiences": [
+        "children",
+        "parent"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "pledge",
+          "summary": "增加公托與臨時托育服務。",
+          "brief": "增加公托與臨時托育服務。",
+          "sourceTitle": "留白投票所／托育與家庭支持（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        },
+        {
+          "candidateId": "chung",
+          "status": "plan",
+          "summary": "興建育星非營利幼兒園。",
+          "brief": "興建育星非營利幼兒園。",
+          "sourceTitle": "留白投票所／托育與家庭支持（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    },
+    {
+      "id": "transit",
+      "title": "公共運輸與接駁",
+      "codes": [
+        "need:mobility",
+        "context:transit"
+      ],
+      "wishes": [
+        "transit-0",
+        "transit-1",
+        "transit-2"
+      ],
+      "audiences": [
+        "elders",
+        "us",
+        "away-you"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "pledge",
+          "summary": "盤點偏鄉需求與接駁服務。",
+          "brief": "盤點偏鄉需求與接駁服務。",
+          "sourceTitle": "留白投票所／公共運輸與接駁（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        },
+        {
+          "candidateId": "chung",
+          "status": "plan",
+          "summary": "爭取高鐵增班及停靠。",
+          "brief": "爭取高鐵增班及停靠。",
+          "sourceTitle": "留白投票所／公共運輸與接駁（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": "校園與教育支持",
+      "codes": [
+        "need:learning"
+      ],
+      "wishes": [
+        "learn-0",
+        "learn-1",
+        "learn-2"
+      ],
+      "audiences": [
+        "children",
+        "teacher",
+        "student"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "pledge",
+          "summary": "提供教師任教與行政支持。",
+          "brief": "提供教師任教與行政支持。",
+          "sourceTitle": "留白投票所／校園與教育支持（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        },
+        {
+          "candidateId": "chung",
+          "status": "plan",
+          "summary": "興建大倫國中新教學大樓。",
+          "brief": "興建大倫國中新教學大樓。",
+          "sourceTitle": "留白投票所／校園與教育支持（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "title": "動物與照護環境",
+      "codes": [
+        "need:animalcare"
+      ],
+      "wishes": [
+        "animals-0",
+        "animals-1",
+        "animals-2"
+      ],
+      "audiences": [
+        "pet-parent",
+        "us"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "pledge",
+          "summary": "強化動保執法與收容照護。",
+          "brief": "強化動保執法與收容照護。",
+          "sourceTitle": "留白投票所／動物與照護環境（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        },
+        {
+          "candidateId": "chung",
+          "status": "plan",
+          "summary": "興建寵物陽光樂園。",
+          "brief": "興建寵物陽光樂園。",
+          "sourceTitle": "留白投票所／動物與照護環境（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    },
+    {
+      "id": "tourism",
+      "title": "地方旅遊與停留",
+      "codes": [
+        "need:leisure",
+        "context:travel"
+      ],
+      "wishes": [
+        "travel-0",
+        "travel-1",
+        "travel-2"
+      ],
+      "audiences": [
+        "traveler",
+        "us",
+        "friend"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "pledge",
+          "summary": "整合旅遊與森林療癒廊帶。",
+          "brief": "整合旅遊與森林療癒廊帶。",
+          "sourceTitle": "留白投票所／地方旅遊與停留（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        },
+        {
+          "candidateId": "chung",
+          "status": "plan",
+          "summary": "整備好望角及過港隧道。",
+          "brief": "整備好望角及過港隧道。",
+          "sourceTitle": "留白投票所／地方旅遊與停留（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "title": "文化資產與地方記憶",
+      "codes": [
+        "need:heritage",
+        "context:culture"
+      ],
+      "wishes": [
+        "culture-0",
+        "culture-1",
+        "culture-2"
+      ],
+      "audiences": [
+        "us",
+        "family",
+        "friend"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "pledge",
+          "summary": "建立文資巡查及修繕制度。",
+          "brief": "建立文資巡查及修繕制度。",
+          "sourceTitle": "留白投票所／文化資產與地方記憶（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        },
+        {
+          "candidateId": "chung",
+          "status": "plan",
+          "summary": "修復後龍一號糧倉。",
+          "brief": "修復後龍一號糧倉。",
+          "sourceTitle": "留白投票所／文化資產與地方記憶（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    },
+    {
+      "id": "roads",
+      "title": "道路與通行",
+      "codes": [
+        "need:mobility",
+        "context:driving"
+      ],
+      "wishes": [
+        "drive-0",
+        "drive-1",
+        "drive-2"
+      ],
+      "audiences": [
+        "us",
+        "away-you"
+      ],
+      "records": [
+        {
+          "candidateId": "chen",
+          "status": "uncollected",
+          "summary": "此來源尚未收錄這個議題。",
+          "brief": "此來源尚未收錄這個議題。",
+          "sourceTitle": "留白投票所／道路與通行（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        },
+        {
+          "candidateId": "chung",
+          "status": "plan",
+          "summary": "推動140線路段拓寬工程。",
+          "brief": "推動140線路段拓寬工程。",
+          "sourceTitle": "留白投票所／道路與通行（原文連結見內）",
+          "sourceUrl": "https://blindvote.app/sources/miaoli"
+        }
+      ]
+    }
+  ]
+}

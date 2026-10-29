@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  
+  <title>1128 我會去投票 · 寫一張明信片</title>
+  <link rel="stylesheet" href="./style.css?v=39">
+  <link rel="stylesheet" href="/vote.css?v=1">
+<meta name="theme-color" content="#00a6e5"><meta name="description" content="1128我會去投票。寫一張明信片，邀你一起。"><meta property="og:type" content="website"><meta property="og:title" content="1128 我會去投票"><meta property="og:description" content="寫一張明信片，邀你一起。"><meta property="og:image" content="__COVER_URL__"><meta property="og:image:width" content="1733"><meta property="og:image:height" content="907"><meta property="og:image:alt" content="石虎、水牛、臺灣藍鵲並排走向投票。"><meta property="og:url" content="__PAGE_URL__"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="__COVER_URL__"><link rel="icon" type="image/svg+xml" href="/assets/favicon.svg"></head>
+<body>
+  <main class="page">
+    <header class="masthead"><h1 class="sr-only">1128 我會去投票</h1><button id="share" class="brand-stamp" aria-label="明信片郵票：分享文字或存成圖片" title="留一封信" disabled><svg viewBox="0 0 70 92" aria-hidden="true"><path class="stamp-paper" d="M4 4 H8 Q10 8 12 4 H16 Q18 8 20 4 H24 Q26 8 28 4 H32 Q34 8 36 4 H40 Q42 8 44 4 H48 Q50 8 52 4 H56 Q58 8 60 4 H66 V10 Q62 12 66 14 V18 Q62 20 66 22 V26 Q62 28 66 30 V34 Q62 36 66 38 V42 Q62 44 66 46 V50 Q62 52 66 54 V58 Q62 60 66 62 V66 Q62 68 66 70 V74 Q62 76 66 78 V82 Q62 84 66 86 V88 H62 Q60 84 58 88 H54 Q52 84 50 88 H46 Q44 84 42 88 H38 Q36 84 34 88 H30 Q28 84 26 88 H22 Q20 84 18 88 H14 Q12 84 10 88 H4 V86 Q8 84 4 82 V78 Q8 76 4 74 V70 Q8 68 4 66 V62 Q8 60 4 58 V54 Q8 52 4 50 V46 Q8 44 4 42 V38 Q8 36 4 34 V30 Q8 28 4 26 V22 Q8 20 4 18 V14 Q8 12 4 10 Z"/><rect x="11" y="11" width="48" height="70"/></svg><span class="wordmark" aria-hidden="true"><span>1128</span><span>投票</span></span></button></header><button id="unlock-version" class="unlock-version" aria-describedby="version-hint" aria-label="郵戳：解除鎖定，繼續編輯" title="點郵戳解除鎖定，繼續編輯" hidden><svg id="draft-postmark" class="seal-mark draft-postmark" aria-hidden="true" hidden></svg></button><p id="version-hint" class="version-hint" role="status" aria-live="polite" hidden></p>
+    <p id="catalog-note" class="catalog-note" role="status" hidden></p>
+    <section class="stage" aria-label="搖動木筆，讓文字浮現">
+      <div id="words" class="words" role="list" aria-label="浮現的詞，可拖曳排列"></div>
+      <p id="hint" class="hint">搖一個願望，再想起一個人。</p>
+      <div id="pen-position" class="pen-position">
+        <div class="pen-axis"><button id="pen" class="pen" aria-label="木頭筆：按住來回搖動，或按空白鍵浮出一個詞">
+          <svg viewBox="0 0 76 360" aria-hidden="true">
+            <path class="pen-body" d="M27 35V278L36 329Q38 335 40 329L49 278V35Z"/>
+            <ellipse cx="38" cy="35" rx="11" ry="3.5"/>
+            <path d="M27 278Q38 282 49 278M34.5 322Q38 324 41.5 322"/>
+            <circle id="pen-tip" cx="38" cy="332" r="1"/>
+            <path class="pen-grain" d="M33 55Q35 120 33 181T34 261"/>
+          </svg>
+        </button></div>
+      </div>
+      <div id="practice-target" class="practice-target" aria-hidden="true" hidden></div>
+      <div id="personal-ghost" class="personal-ghost" aria-hidden="true">｜</div>
+      <button id="rest" class="pen-rest" hidden aria-label="收筆：把詞排成直式句子" title="收筆，排成一句">
+        <svg class="standing-rest" viewBox="0 0 56 44" aria-hidden="true"><ellipse cx="28" cy="27" rx="18" ry="4"/><path d="M10 27v4c0 5 36 5 36 0v-4"/></svg>
+        <svg class="groove-rest" viewBox="0 0 330 50" aria-hidden="true"><path d="M24 12H306Q322 12 322 25T306 38H24Q8 38 8 25T24 12Z"/><path d="M25 17H305Q315 17 315 25M25 33H305"/></svg>
+      </button>
+    </section>
+    <footer><button id="reveal">浮現</button><button id="bring" class="bring" aria-label="署名：將筆尖靠近短線，或點一下" title="靠近短線或點一下，留下署名"><span></span></button><button id="reset">重新</button></footer>
+    <dialog id="source-sheet" class="sheet source-sheet" aria-labelledby="source-title">
+      <header class="sheet-heading" data-sheet-layer><h2 id="source-title">來處</h2><button id="close-source">收起</button></header>
+      <p id="source-word" data-sheet-layer class="source-word"></p><p id="source-caption" data-sheet-layer class="sheet-caption"></p><div id="source-body" data-sheet-layer></div>
+    </dialog>
+    <dialog id="compose-sheet" class="sheet compose-sheet" aria-labelledby="compose-title">
+      <form id="personal-form"><header class="sheet-heading" data-sheet-layer><h2 id="compose-title">留個署名</h2><button id="cancel-personal" type="button">取消</button></header>
+        <label for="personal-text" class="sr-only">署名，最多 12 個字</label>
+        <textarea id="personal-text" data-sheet-layer maxlength="24" rows="1" placeholder="你的名字或暱稱（可留白）" autocomplete="off"></textarea>
+        <p id="personal-error" class="form-error" role="alert"></p><div class="compose-bottom" data-sheet-layer><span id="personal-count">0 / 12</span><button type="submit">確認署名</button></div>
+      </form>
+    </dialog>
+    <dialog id="share-sheet" class="sheet share-sheet" aria-labelledby="share-title">
+      <header class="sheet-heading" data-sheet-layer><h2 id="share-title">留一封信</h2><button id="close-share">收起</button></header>
+      <div class="share-actions" role="group" aria-label="留下字句的方式" data-sheet-layer><button id="choose-image" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h16v16H4ZM4 16l5-5 5 5 3-3 3 3"/><circle cx="15" cy="8" r="1.5"/></svg><span>存成圖片</span></button><button id="choose-message" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18v13H3ZM3 6l9 8 9-8"/></svg><span>傳送訊息</span></button></div>
+      <p id="share-consent" class="share-consent" data-sheet-layer>訊息連結可閱讀半年。</p>
+      <section id="image-details" class="share-details" data-sheet-layer hidden><div class="image-preview-frame"><canvas id="image-preview" width="1080" height="1440" aria-label="圖片預覽" role="img"></canvas><svg id="preview-postmark" class="seal-mark preview-postmark" aria-hidden="true" hidden></svg></div><button id="save-image">下載圖片</button></section>
+      <section id="share-result" class="share-details" data-sheet-layer hidden><label for="share-text" class="sr-only">可以分享的文字</label><textarea id="share-text" readonly rows="3"></textarea><button id="copy-share">複製訊息</button><p id="share-expiry" class="sheet-caption"></p></section>
+      <div id="share-confirmation" class="share-confirmation" data-sheet-layer hidden><button id="unlock-shared-version" class="unlock-share-mark" aria-label="郵戳：解除鎖定，繼續編輯"><svg id="message-postmark" class="seal-mark" aria-hidden="true" hidden></svg></button><p>這一版已鎖定<br>點郵戳繼續編輯</p></div>
+      <p id="share-message" data-sheet-layer class="share-message" role="status"></p><p id="local-share-note" class="sheet-caption" hidden>連結目前僅供本機預覽。</p>
+    </dialog>
+    <aside id="practice-coach" class="practice-coach" aria-label="第一封信操作教學" hidden><p id="practice-count" role="status"></p><h2 id="practice-title"></h2><p id="practice-instruction"></p><div class="practice-controls"><button id="practice-exit">離開練習</button><button id="practice-skip">略過此步</button><button id="practice-next" disabled>下一步</button></div></aside>
+    <p id="status" class="sr-only" role="status" aria-live="polite"></p>
+  </main>
+  <script type="module" src="./app.mjs?v=39"></script>
+</body>
+</html>
